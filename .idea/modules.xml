@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hello-shopping/hello-shopping.iml" filepath="$PROJECT_DIR$/hello-shopping/hello-shopping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hzm-api-gateway/hzm-api-gateway.iml" filepath="$PROJECT_DIR$/hzm-api-gateway/hzm-api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hzm-api-user-service/hzm-api-user-service.iml" filepath="$PROJECT_DIR$/hzm-api-user-service/hzm-api-user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hzm-config-server/hzm-config-server.iml" filepath="$PROJECT_DIR$/hzm-config-server/hzm-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hzm-eureka-server/hzm-eureka-server.iml" filepath="$PROJECT_DIR$/hzm-eureka-server/hzm-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hzm-hy-dashboard/hzm-hy-dashboard.iml" filepath="$PROJECT_DIR$/hzm-hy-dashboard/hzm-hy-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hzm-shopping.iml" filepath="$PROJECT_DIR$/hzm-shopping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hzm-user-consumer/hzm-user-consumer.iml" filepath="$PROJECT_DIR$/hzm-user-consumer/hzm-user-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hzm-user-service/hzm-user-service.iml" filepath="$PROJECT_DIR$/hzm-user-service/hzm-user-service.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.hzm.shopping</groupId>
+    <artifactId>hzm-shopping</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+
+    <modules>
+
+        <module>hello-shopping</module>
+        <module>hzm-eureka-server</module>
+        <module>hzm-api-user-service</module>
+        <module>hzm-user-service</module>
+        <module>hzm-user-consumer</module>
+        <module>hzm-hy-dashboard</module>
+        <module>hzm-api-gateway</module>
+        <module>hzm-config-server</module>
+    </modules>
+
+
+</project>
